@@ -10,7 +10,7 @@ This repository contains the course materials, projects, and assignments for the
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#lICENSE)
 - [Contact](#contact)
 
 ## Course Overview
