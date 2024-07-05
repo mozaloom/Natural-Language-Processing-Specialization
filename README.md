@@ -71,6 +71,3 @@ To run the code in this repository, you will need the following dependencies:
 - SpaCy
 - Gensim
 
-You can install the required packages using pip:
-```bash
-pip install -r requirements.txt
